@@ -4,4 +4,4 @@ The project will systematically evaluate RAINCOAT against state-of-the-art domai
 
 Reference:
 
-[1] Domain Adaptation for Time Series Under Feature and Label Shifts - Zitnik Lab (harvard.edu)
+[1] [Domain Adaptation for Time Series Under Feature and Label Shifts](https://arxiv.org/pdf/2302.03133)
